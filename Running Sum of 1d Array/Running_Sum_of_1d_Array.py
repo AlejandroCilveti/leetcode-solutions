@@ -6,3 +6,5 @@ class Solution(object):
           output.append(output[i-1] + nums[i])
       
       return output
+
+    #Submission: https://leetcode.com/submissions/detail/1032352331/
